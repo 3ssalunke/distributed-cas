@@ -1,2 +1,2 @@
-This is distrubuted CAS. For leanring Purpose.
+This is distrubuted CAS. For learning Purpose.
 credit https://github.com/anthdm
